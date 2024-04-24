@@ -8,4 +8,5 @@ reference website: **https://supersimple.dev/exercises/youtube**
 own portfolio website available: **https://gabor12321.github.io/youtube-copy-portfolio/youtube.html** 
 
 ## Other(s):
-other portfolio website: **https://github.com/citroenami/Amazon-js-portfolio-project** 
+other portfolio website: **https://github.com/citroenami/Amazon-js-portfolio-project**  
+link2: **https://gabor12321.github.io/kinderbegeleidster-game/kinderbegeleidster_game/main.html**
